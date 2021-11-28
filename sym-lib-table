@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Arduino_codec-rescue)(type Legacy)(uri ${KIPRJMOD}/Arduino_codec-rescue.lib)(options "")(descr ""))
+)

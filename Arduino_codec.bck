@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY2305SXC-1
+D Clock Buffer SOIC-8
+K clock buffer
+F https://www.onsemi.com/pub/Collateral/NB3N551-D.PDF
+$ENDCMP
+#
+$CMP LM12001
+F https://www.ti.com/lit/ds/symlink/lmz12001.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1595142882648
+$ENDCMP
+#
+$CMP PCM1793
+D 24-Bit, 192-kHz Sampling, Advanced Segment, Audio Stereo Digital-to-Analog Converter, HW Control, SSOP-28
+K audio dac 2ch 24bit 192kHz
+F https://www.ti.com/lit/ds/symlink/pcm1793.pdf
+$ENDCMP
+#
+$CMP PCM1802
+D 105dB SNR Stereo ADC With Single-Ended Inputs
+K ADC, PCM1802, 96KHz
+F https://www.ti.com/lit/ds/symlink/pcm1802.pdf
+$ENDCMP
+#
+#End Doc Library
