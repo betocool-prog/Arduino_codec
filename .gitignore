@@ -1,4 +1,6 @@
 /*bak*
 /*cache*
 /Arduino_codec-backups/*.zip
+*.lck
+*auto_saved_files*
 
